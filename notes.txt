@@ -1,0 +1,7 @@
+KEY** aplpy a collor palette to a mockup page;
+
+1. Create a collor palette
+2. Create Dark Theme
+3. Add animation
+
+
